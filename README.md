@@ -1,5 +1,5 @@
 # heart_attack_prediction
-Machine learning can be used to detect whether a person is suffering from a cardiovascular disease by considering certain attributes like chest pain, cholesterol level, age of the person and some other attributes.
+
 Classification algorithms based on supervised learning which is a type of machine learning can make diagnoses of cardiovascular diseases easy. 
 Logistic Regression algorithm is used to classify people who have a heart disease from people who do not. 
 
